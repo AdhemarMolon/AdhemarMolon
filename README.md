@@ -2,9 +2,17 @@
 
 Graduando em Ciência da Computação na USP. Atualmente na jornada para me tornar desenvolvedor Web Full Stack, com interesse especial em Engenharia de Software.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhemar-molon-neto-6b5647268/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AdhemarMolon)
-[![E-mail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:adhemarmolon@usp.br)
+<p align="center">
+  <a href="https://github.com/AdhemarMolon" target="_blank" style="margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adhemar-molon-neto-6b5647268/" target="_blank" style="margin: 0 20px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:adhemarmolon@usp.br" style="margin-left: 20px;">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="E-mail"/>
+  </a>
+</p>
 
 ---
 
