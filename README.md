@@ -27,3 +27,6 @@ Graduando em Ciência da Computação na USP. Atualmente na jornada para me torn
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhemarMolon&layout=compact&theme=solarized-light)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhemarMolon&layout=compact&theme=solarized-light)
+
