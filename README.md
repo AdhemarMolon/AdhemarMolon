@@ -19,7 +19,7 @@ Graduando em Ciência da Computação na USP. Atualmente na jornada para me torn
 ### 🚀 Habilidades Técnicas
 
 **Linguagens:** Java, C, C++, Python, JavaScript, HTML5/CSS3  
-**Frameworks & Ferramentas:** React, Node.js, Docker, PostgreSQL, Git, Linux, Visual Studio  
+**Frameworks & Ferramentas:** React, Node.js,PostgreSQL, Git, Linux, Visual Studio  
 
 ---
 
