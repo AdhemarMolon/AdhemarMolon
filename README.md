@@ -3,9 +3,6 @@
 Graduando em Ciência da Computação na USP. Atualmente na jornada para me tornar desenvolvedor Web Full Stack, com interesse especial em Engenharia de Software.
 
 <p align="center">
-  <a href="https://github.com/AdhemarMolon" target="_blank" style="margin-right: 20px;">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/in/adhemar-molon-neto-6b5647268/" target="_blank" style="margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
   </a>
